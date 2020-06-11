@@ -1,6 +1,6 @@
 # my_project
 
-# mvp-1.0 Release
+# mvp-1.1 Release
 # copyright text
 
 # sample project
