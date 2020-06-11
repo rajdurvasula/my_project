@@ -2,6 +2,4 @@
 
 # Here are some changes by Developer1
 # Here are some changes by Developer2
-# Here is a defect fix1
-# Here is a defect fix2
-# Update Release Notes with version statements
+# Here is a defect fix1 on mvp-1.1 component1
